@@ -4,7 +4,7 @@ export const Header = () => {
       <div className="container">
         <div>
           <div>
-            <span>logo</span>
+            <span>logo2</span>
           </div>
           <div>
             <button>Join Waitlist</button>
